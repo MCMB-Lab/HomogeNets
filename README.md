@@ -7,7 +7,7 @@ This project uses [uv](https://docs.astral.sh/uv/) package manager. To get start
 clone this repo
 
 ```
-git clone TODO
+git clone https://github.com/MCMB-Lab/HomogeNets.git
 cd HomogeNets
 ```
 and setup the development environment
