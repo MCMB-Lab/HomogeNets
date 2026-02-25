@@ -1,0 +1,12 @@
+[project]
+name = "homogenets"
+version = "0.1.0"
+description = "Numerical Homogenization with Neural Nets"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+    "pre-commit>=4.5.1",
+    "torch>=2.10.0",
+]
